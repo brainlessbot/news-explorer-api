@@ -1,0 +1,20 @@
+{
+  "name": "news-explorer-api",
+  "version": "1.0.0",
+  "description": "The backend of News Explorer website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainlessbot/news-explorer-api.git"
+  },
+  "keywords": [],
+  "author": "Michael Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainlessbot/news-explorer-api/issues"
+  },
+  "homepage": "https://github.com/brainlessbot/news-explorer-api#readme"
+}
